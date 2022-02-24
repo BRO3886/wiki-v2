@@ -1,0 +1,6 @@
+#!/bin/sh
+NOW=$(date +"%d-%b-%Y")
+echo "$NOW"
+git add .
+git commit -m "chore: add resources $NOW"
+git push origin main
