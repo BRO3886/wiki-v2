@@ -9,3 +9,5 @@
 * [gRPC Playlist](https://www.youtube.com/playlist?list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf)
 * [PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://youtu.be/z9K5pwb0rt8)
 * [Talks # 8: Sebastián Ramírez; Build a machine learning API from scratch with FastAPI](https://youtu.be/1zMQBe0l1bM)
+
+* [Comparison with HTTP/2 - HTTP/3 explained](https://http3-explained.haxx.se/en/h3/h3-h2)
