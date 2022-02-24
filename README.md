@@ -14,5 +14,6 @@ Inspired by https://github.com/feniljain/knowledge-base.
 * [Interview Prep](Interview Prep/README.md)
 * [Kotlin](Kotlin/README.md)
 * [Personal](Personal/README.md)
+* [Python](Python/README.md)
 * [Startups](Startups/README.md)
 
