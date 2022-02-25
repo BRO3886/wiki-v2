@@ -11,7 +11,7 @@ Inspired by https://github.com/feniljain/knowledge-base.
 * [Frontend](Frontend/README.md)
 * [Git](Git/README.md)
 * [Go](Go/README.md)
-* [Interview Prep](Interview Prep/README.md)
+* [Interview Prep](Interview%20Prep/README.md)
 * [Kotlin](Kotlin/README.md)
 * [Personal](Personal/README.md)
 * [Python](Python/README.md)
