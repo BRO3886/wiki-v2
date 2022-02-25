@@ -17,5 +17,6 @@ Inspired by https://github.com/feniljain/knowledge-base.
 * [Kotlin](Kotlin/README.md)
 * [Personal](Personal/README.md)
 * [Python](Python/README.md)
+* [Rust](Rust/README.md)
 * [Startups](Startups/README.md)
 
