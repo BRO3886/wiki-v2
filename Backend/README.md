@@ -11,3 +11,4 @@
 * [Talks # 8: Sebastián Ramírez; Build a machine learning API from scratch with FastAPI](https://youtu.be/1zMQBe0l1bM)
 
 * [Comparison with HTTP/2 - HTTP/3 explained](https://http3-explained.haxx.se/en/h3/h3-h2)
+* [Some mistakes Rust doesn't catch](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch)
