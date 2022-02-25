@@ -1,5 +1,7 @@
 # Wiki-V2
-Personal reosource hub. Just a collection of anything important I find, as markdown links. Old one is archived. Site coming soon. This has a flatter structure to utilise GitHub API easily
+Personal reosource hub. Just a collection of anything important I find, as markdown links. 
+
+Old one is archived. Site coming soon. This has a flatter structure to utilise GitHub API easily. Made a shortcut with shortcuts app on iPhone to add links.
 
 Inspired by https://github.com/feniljain/knowledge-base.
 
