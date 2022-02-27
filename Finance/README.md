@@ -2,4 +2,4 @@
 Tax go brr
 
 ## Links
-* [https://youtu.be/XYy1z8mTA8E](https://youtu.be/XYy1z8mTA8E)
+* [Section 80C Income Tax Deductions](https://youtu.be/XYy1z8mTA8E)
