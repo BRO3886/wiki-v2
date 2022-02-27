@@ -12,3 +12,4 @@
 
 * [Comparison with HTTP/2 - HTTP/3 explained](https://http3-explained.haxx.se/en/h3/h3-h2)
 * [Some mistakes Rust doesn't catch](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch)
+* [How Istio solved our problems | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20220210-how-istio-solved-our-problems/)
