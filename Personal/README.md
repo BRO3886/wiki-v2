@@ -5,4 +5,4 @@
 * [Why you might not be learning as effectively](https://dev.to/lyqht/why-you-might-not-be-learning-as-effectively-18o9)
 * [10 Tips to increase developer productivity](https://beyond-average.hashnode.dev/10-tips-on-how-developers-increase-their-productivity)
 * [Is Success Luck or Hard Work?](https://youtu.be/3LopI4YeC4I)
-* [Clipboard 27-Feb-2022 at 5.10 PM](https://youtu.be/qtN7qqdeTwU)
+* [How to get started with Logseq](https://youtu.be/qtN7qqdeTwU)
