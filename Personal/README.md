@@ -6,3 +6,5 @@
 * [10 Tips to increase developer productivity](https://beyond-average.hashnode.dev/10-tips-on-how-developers-increase-their-productivity)
 * [Is Success Luck or Hard Work?](https://youtu.be/3LopI4YeC4I)
 * [How to get started with Logseq](https://youtu.be/qtN7qqdeTwU)
+
+* [https://dev.to/dragosnedelcu/9-smart-ways-to-stand-out-as-a-developer-in-a-world-full-of-coders-2b81](https://dev.to/dragosnedelcu/9-smart-ways-to-stand-out-as-a-developer-in-a-world-full-of-coders-2b81?signin=true)
