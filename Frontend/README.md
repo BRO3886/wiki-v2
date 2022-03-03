@@ -15,3 +15,5 @@ React, Vue and some JS libraries.
 * [vitejs/vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
 * [evanw/esbuild: An extremely fast JavaScript bundler and minifier](https://github.com/evanw/esbuild)
 * [Miodec/monkeytype: A minimalistic typing test](https://github.com/Miodec/monkeytype)
+
+* [React component design patterns for 2022 - LogRocket Blog](https://blog.logrocket.com/react-component-design-patterns-2022/)
