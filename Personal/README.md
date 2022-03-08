@@ -9,3 +9,4 @@
 
 * [https://dev.to/dragosnedelcu/9-smart-ways-to-stand-out-as-a-developer-in-a-world-full-of-coders-2b81](https://dev.to/dragosnedelcu/9-smart-ways-to-stand-out-as-a-developer-in-a-world-full-of-coders-2b81?signin=true)
 * [I am the healthiest person I know, and I got cancer! - Seema.](https://seema.page/)
+* [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/)
