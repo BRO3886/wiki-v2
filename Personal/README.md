@@ -8,3 +8,4 @@
 * [How to get started with Logseq](https://youtu.be/qtN7qqdeTwU)
 
 * [https://dev.to/dragosnedelcu/9-smart-ways-to-stand-out-as-a-developer-in-a-world-full-of-coders-2b81](https://dev.to/dragosnedelcu/9-smart-ways-to-stand-out-as-a-developer-in-a-world-full-of-coders-2b81?signin=true)
+* [I am the healthiest person I know, and I got cancer! - Seema.](https://seema.page/)
