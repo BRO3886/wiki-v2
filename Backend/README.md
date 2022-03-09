@@ -15,3 +15,4 @@
 * [How Istio solved our problems | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20220210-how-istio-solved-our-problems/)
 
 * [How Does Apache Kafka Work? [Diagram] - YouTube](https://m.youtube.com/watch?v=EiWsPd6JDoo&feature=youtu.be)
+* [https://www.quinbay.com/blog/understanding-rate-limiting-algorithms](https://www.quinbay.com/blog/understanding-rate-limiting-algorithms)
