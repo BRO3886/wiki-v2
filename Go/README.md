@@ -14,3 +14,4 @@
 * [Pass a Golang job interview](https://medium.com/p-society/pass-a-golang-job-interview-bfb6ea83b457)
 * [Why go and not rust](https://kristoff.it/blog/why-go-and-not-rust/)
 * [Half a million lines of Go](https://blog.khanacademy.org/half-a-million-lines-of-go/)
+* [Compile-time Dependency Injection With Go Cloud's Wire - The Go Programming Language](https://go.dev/blog/wire)
