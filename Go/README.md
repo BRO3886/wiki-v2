@@ -15,3 +15,4 @@
 * [Why go and not rust](https://kristoff.it/blog/why-go-and-not-rust/)
 * [Half a million lines of Go](https://blog.khanacademy.org/half-a-million-lines-of-go/)
 * [Compile-time Dependency Injection With Go Cloud's Wire - The Go Programming Language](https://go.dev/blog/wire)
+* [Rate Limiting in Go. ℹ️ This article is based on Go 1.14. | by Justin Graber | Medium](https://medium.com/@justin.graber/rate-limiting-in-golang-f3ed2c62df36)
