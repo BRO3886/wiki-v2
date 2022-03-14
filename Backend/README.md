@@ -17,3 +17,4 @@
 * [How Does Apache Kafka Work? [Diagram] - YouTube](https://m.youtube.com/watch?v=EiWsPd6JDoo&feature=youtu.be)
 * [https://www.quinbay.com/blog/understanding-rate-limiting-algorithms](https://www.quinbay.com/blog/understanding-rate-limiting-algorithms)
 * [gRPC Crash Course - Modes, Examples, Pros & Cons and more - YouTube](https://m.youtube.com/watch?v=Yw4rkaTc0f8&feature=youtu.be)
+* [https://twitter.com/gergelyorosz/status/1502947315279187979?s=12](https://twitter.com/gergelyorosz/status/1502947315279187979?s=12)
