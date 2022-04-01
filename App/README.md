@@ -29,3 +29,5 @@ Blogs I wrote as a freelance gig, or for learning/sharing knowledge.
 * [Automate taking screenshot in compose](https://dev.to/pchmielowski/automate-taking-screenshots-of-android-app-with-jetpack-compose-2950)
 * [Migrating from LiveData to Kotlin’s Flow | by Jose Alcérreca | Android Developers | May, 2021 | Medium](https://medium.com/androiddevelopers/migrating-from-livedata-to-kotlins-flow-379292f419fb)
 * [Hilt is stable! Easier dependency injection on Android | by Manuel Vivo | Android Developers | May, 2021 | Medium](https://medium.com/androiddevelopers/hilt-is-stable-easier-dependency-injection-on-android-53aca3f38b9c)
+
+* [Quick Tip: Loading image(s) of any aspect ratio the right way(Android|iOS) | by Asheesh Sharma | Apr, 2022 | Medium](https://medium.com/@asheeshsharma2594/quick-tip-loading-image-s-of-any-aspect-ratio-the-right-way-android-ios-fa94b8bb9f28)
