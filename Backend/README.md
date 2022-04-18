@@ -19,3 +19,4 @@
 * [gRPC Crash Course - Modes, Examples, Pros & Cons and more - YouTube](https://m.youtube.com/watch?v=Yw4rkaTc0f8&feature=youtu.be)
 * [https://twitter.com/gergelyorosz/status/1502947315279187979?s=12](https://twitter.com/gergelyorosz/status/1502947315279187979?s=12)
 * [https://twitter.com/alexxubyte/status/1509200416403189765?s=12&t=WlCs9jiHu4Ag5gaDqw9XTg](https://twitter.com/alexxubyte/status/1509200416403189765?s=12&t=WlCs9jiHu4Ag5gaDqw9XTg)
+* [Rate limiting HTTP requests in Go using Redis - Maurício Linhares' ramblings](https://mauricio.github.io/2021/12/30/rate-limiting-in-go.html)
