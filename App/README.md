@@ -32,3 +32,4 @@ Blogs I wrote as a freelance gig, or for learning/sharing knowledge.
 
 * [Quick Tip: Loading image(s) of any aspect ratio the right way(Android|iOS) | by Asheesh Sharma | Apr, 2022 | Medium](https://medium.com/@asheeshsharma2594/quick-tip-loading-image-s-of-any-aspect-ratio-the-right-way-android-ios-fa94b8bb9f28)
 * [An Introduction to Mobile Engineering in 90 Minutes: Designing the Instagram User Interface - YouTube](https://m.youtube.com/watch?v=W0KNQuMka-Q&feature=youtu.be#dialog)
+* [Understanding Composition and Side Effects](https://okmanideep.github.io/understanding-composition-and-side-effects)
