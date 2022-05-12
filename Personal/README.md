@@ -11,3 +11,4 @@
 * [I am the healthiest person I know, and I got cancer! - Seema.](https://seema.page/)
 * [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/)
 * [The Product-Minded Software Engineer - The Pragmatic Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+* [Give it five minutes – Signal v. Noise](https://signalvnoise.com/posts/3124-give-it-five-minutes)
