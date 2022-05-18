@@ -12,3 +12,4 @@
 * [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/)
 * [The Product-Minded Software Engineer - The Pragmatic Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 * [Give it five minutes – Signal v. Noise](https://signalvnoise.com/posts/3124-give-it-five-minutes)
+* [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns)
