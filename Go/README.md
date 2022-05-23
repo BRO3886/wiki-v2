@@ -18,3 +18,4 @@
 * [Rate Limiting in Go. ℹ️ This article is based on Go 1.14. | by Justin Graber | Medium](https://medium.com/@justin.graber/rate-limiting-in-golang-f3ed2c62df36)
 * [Demo of using golang.org x time rate RateLimiter](https://gist.github.com/17twenty/d226d76027ab42d087ad5b3002bb0c1a)
 * [Faster Docker builds using go modules · Carlos Becker](https://carlosbecker.com/posts/docker-go-mod/)
+* [Why is goroutine being called a “lightweight” thread? | by Jessie Kuo | Mar, 2022 | Medium](https://medium.com/@jessie_kuo/why-is-goroutine-being-called-a-lightweight-thread-46d70d198ad6)
