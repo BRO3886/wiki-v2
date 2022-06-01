@@ -19,3 +19,4 @@
 * [Demo of using golang.org x time rate RateLimiter](https://gist.github.com/17twenty/d226d76027ab42d087ad5b3002bb0c1a)
 * [Faster Docker builds using go modules · Carlos Becker](https://carlosbecker.com/posts/docker-go-mod/)
 * [Why is goroutine being called a “lightweight” thread? | by Jessie Kuo | Mar, 2022 | Medium](https://medium.com/@jessie_kuo/why-is-goroutine-being-called-a-lightweight-thread-46d70d198ad6)
+* [Less is exponentially more](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
