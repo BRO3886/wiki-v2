@@ -20,3 +20,5 @@
 * [Faster Docker builds using go modules · Carlos Becker](https://carlosbecker.com/posts/docker-go-mod/)
 * [Why is goroutine being called a “lightweight” thread? | by Jessie Kuo | Mar, 2022 | Medium](https://medium.com/@jessie_kuo/why-is-goroutine-being-called-a-lightweight-thread-46d70d198ad6)
 * [Less is exponentially more](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
+
+* [Implementing distributed lock with Go + Redis | by Kevin Wan | FAUN Publication](https://faun.pub/implementing-distributed-lock-with-go-redis-8d943267e21f)
