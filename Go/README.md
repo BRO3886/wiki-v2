@@ -22,3 +22,4 @@
 * [Less is exponentially more](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
 
 * [Implementing distributed lock with Go + Redis | by Kevin Wan | FAUN Publication](https://faun.pub/implementing-distributed-lock-with-go-redis-8d943267e21f)
+* [An overview of memory management in Go | by Scott Gangemi | SafetyCulture Engineering | Medium](http://HackerNoon.com)
